@@ -1,0 +1,10 @@
+{
+  "name": "amio",
+  "version": "0.0.1",
+  "description": "npx amio",
+  "main": "README.md",
+  "bin": "bin/amio",
+  "repository": "https://github.com/amio/amio",
+  "author": "Amio <amio.cn@gmail.com>",
+  "license": "MIT"
+}
