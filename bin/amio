@@ -1,7 +1,3 @@
 #!/usr/bin/env node
 
-const greetings = `
-  Hello there! This is amio.
-`
-
-console.log(greetings)
+require('../index.js')
