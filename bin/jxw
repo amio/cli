@@ -1,3 +1,5 @@
 #!/usr/bin/env node
 
-require('amio')
+var _main = require('amio')
+
+(typeof _main === 'function') && _main('jxw')

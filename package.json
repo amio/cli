@@ -8,6 +8,6 @@
   "author": "Amio <amio.cn@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "amio": "^0.2.0"
+    "amio": "*"
   }
 }
