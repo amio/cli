@@ -1,6 +1,6 @@
 {
   "name": "jxw",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "npx jxw",
   "bin": "bin/jxw",
   "repository": "https://github.com/amio/cli",
