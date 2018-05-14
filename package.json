@@ -4,7 +4,7 @@
   "description": "npx amio",
   "main": "index.js",
   "bin": "bin/amio",
-  "repository": "https://github.com/amio/amio",
+  "repository": "https://github.com/amio/cli",
   "author": "Amio <amio.cn@gmail.com>",
   "license": "MIT"
 }
