@@ -2,7 +2,7 @@
   "name": "amio",
   "version": "0.2.0",
   "description": "npx amio",
-  "main": "README.md",
+  "main": "index.js",
   "bin": "bin/amio",
   "repository": "https://github.com/amio/amio",
   "author": "Amio <amio.cn@gmail.com>",
