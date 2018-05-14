@@ -5,7 +5,6 @@ const links = `
 `
 
 module.exports = function main (name) {
-  name = name || 'amio'
-  console.log(`\n  Hi, This is ${name}.`)
+  console.log(`\n  Hi, this is Amio.`)
   console.log(links)
 }
