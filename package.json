@@ -1,6 +1,6 @@
 {
   "name": "amio",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "npx amio",
   "main": "index.js",
   "bin": "bin/amio",
