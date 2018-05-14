@@ -1,5 +1,3 @@
 #!/usr/bin/env node
 
-var _main = require('amio')
-
-(typeof _main === 'function') && _main('jxw')
+require('amio')('jxw')
