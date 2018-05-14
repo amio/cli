@@ -1,0 +1,13 @@
+{
+  "name": "jxw",
+  "version": "0.0.1",
+  "description": "npx jxw",
+  "main": "README.md",
+  "bin": "bin/jxw",
+  "repository": "https://github.com/amio/amio",
+  "author": "Amio <amio.cn@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "amio": "^0.2.0"
+  }
+}
